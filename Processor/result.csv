@@ -1,0 +1,194 @@
+CityName,Popluation_Density,Markets_Numbers,Educated_Score,Fastfood_Restaurant_Numbers
+new york,28211,12,63.19,36
+los angeles,8484,5,49.22,33
+chicago,11883,19,60.99,51
+houston,3842,9,49.82,63
+phoenix,3126,22,51.5,42
+philadelphia,11692,6,59.48,26
+san antonio,3238,11,45.69,27
+san diego,4326,20,67.15,20
+dallas,3870,0,52.76,32
+san jose,5808,15,81.9,14
+austin,3182,18,72.94,31
+jacksonville,1457,0,52.45,33
+san francisco,18581,25,79.48,3
+columbus,913,24,58.1,41
+indianapolis,2366,21,52.99,27
+fort worth,2513,14,52.76,24
+charlotte,2829,27,56.49,11
+seattle,8391,30,73.76,16
+denver,4530,17,69.45,52
+el paso,2676,25,33.57,11
+washington,11158,22,81.7,35
+boston,13943,7,76.29,9
+detroit,4849,8,51.35,14
+nashville,1390,21,56.12,17
+memphis,2072,22,44.75,30
+portland,3141,17,67.96,34
+oklahoma city,1053,0,51.43,41
+las vegas,4660,1,41.03,72
+baltimore,7594,20,65.06,6
+milwaukee,6191,13,56.12,20
+albuquerque,2979,6,57.75,35
+tucson,2341,0,54.26,14
+fresno,4663,1,28.79,4
+sacramento,5058,1,57.68,10
+kansas city,1216,15,59.77,18
+atlanta,3549,15,62.16,41
+long beach,9348,14,49.22,12
+colorado springs,2391,17,71.22,15
+raleigh,3211,25,70.96,13
+miami,12645,0,51.94,58
+virginia beach,1818,0,59.43,11
+omaha,3517,21,59.91,17
+minneapolis,7664,4,67.41,32
+tulsa,2049,24,44.88,22
+arlington,4096,22,52.76,15
+new orleans,2311,29,47.1,4
+wichita,2448,17,49.62,12
+cleveland,4965,0,50.77,37
+tampa,3326,20,50.36,21
+bakersfield,2648,0,16.42,6
+aurora,4475,13,69.45,25
+anaheim,7043,21,49.22,13
+corpus christi,2028,0,31.09,5
+riverside,4002,17,32.26,8
+lexington,1123,18,64.07,37
+stockton,4979,6,25.42,8
+pittsburgh,5484,17,59,10
+cincinnati,3834,21,56.61,119
+anchorage,175,16,57.79,6
+henderson,2719,0,41.03,15
+greensboro,2269,9,48.62,6
+newark,11648,0,63.19,10
+orlando,2707,19,54.78,31
+fort wayne,2391,24,46.49,7
+jersey city,17860,13,63.19,2
+durham,2450,20,79.72,10
+buffalo,6362,11,55.74,4
+madison,3289,16,78.48,19
+scottsdale,1341,15,51.5,9
+reno,2381,15,55.26,16
+norfolk,4529,21,59.43,9
+baton rouge,2959,16,43.54,19
+richmond,3652,18,59.16,25
+san bernardino,3653,0,32.26,6
+spokane,3645,0,58.2,10
+des moines,2664,0,57.96,8
+modesto,5755,0,21.68,10
+birmingham,1452,14,49.83,11
+rochester,2088,5,58.56,12
+oxnard,7732,14,52.44,2
+fayetteville,1557,21,47.65,17
+montgomery,1254,19,46.62,14
+little rock,1666,0,52.41,8
+akron,3186,0,52.94,5
+grand rapids,4424,0,54.24,12
+shreveport,1850,29,36.92,19
+salt lake city,1744,19,58.99,21
+huntsville,924,0,63.08,10
+mobile,1387,3,37.6,12
+tallahassee,1904,0,68.97,9
+knoxville,1890,25,48.05,22
+worcester,4937,18,55.71,2
+brownsville,1389,14,11.4,6
+newport news,2646,0,59.43,2
+providence,9740,6,48.96,6
+chattanooga,1295,28,42.13,13
+santa rosa,4242,1,59.99,2
+vancouver,3763,20,67.96,10
+ontario,3468,17,32.26,3
+jackson,1247,13,49.4,32
+salem,3495,0,42.17,29
+springfield,2336,14,48.93,28
+eugene,3810,0,59.58,3
+peoria,2380,1,49.89,10
+lancaster,8191,14,38.3,18
+salinas,6782,11,27.49,2
+alexandria,10367,18,81.7,19
+lakewood,9092,29,69.45,8
+sunnyvale,6947,5,81.9,2
+rockford,2417,0,37.84,8
+naperville,3795,18,60.99,4
+savannah,1423,21,51.93,9
+bridgeport,9138,22,71.91,2
+syracuse,5726,0,53.98,8
+mcallen,2942,1,13.83,4
+dayton,2525,28,53.44,25
+warren,3930,18,35.98,5
+charleston,1233,0,56.82,15
+columbia,1912,0,53.55,34
+roseville,3663,20,57.68,7
+murfreesboro,2384,13,56.12,9
+visalia,3616,1,10.74,1
+new haven,6956,1,58,4
+thousand oaks,2342,22,52.44,2
+concord,1491,14,56.49,7
+lafayette,2588,1,33.43,16
+santa clara,6841,14,81.9,3
+hartford,7091,16,64.2,12
+ann arbor,4340,32,94.23,2
+allentown,6863,0,46.59,2
+wilmington,6554,4,59.48,11
+provo,2805,0,70.77,3
+lansing,3218,18,64.74,5
+fairfield,3069,22,42.16,18
+clearwater,4474,1,50.36,5
+carlsbad,3021,10,67.15,8
+elgin,3017,0,60.99,3
+manchester,3339,0,57.98,9
+north charleston,1493,19,56.82,10
+west palm beach,1956,0,51.94,14
+lakeland,1630,19,31.62,5
+santa maria,4670,0,54.71,9
+hillsboro,4400,0,67.96,10
+davenport,1630,16,42.7,2
+albany,3034,8,65.14,13
+roswell,2323,2,62.16,15
+dearborn,3899,20,51.35,3
+santa barbara,4722,0,54.71,1
+greenville,2353,16,47.66,34
+carmel,1919,25,52.99,1
+asheville,1984,18,59.37,4
+sugar land,2723,23,49.82,6
+nashua,2849,9,57.98,6
+edinburg,2329,0,13.83,4
+reading,8864,0,36.2,5
+ogden,3200,16,51.82,26
+bloomington,2866,22,67.41,5
+trenton,10988,19,69.2,11
+troy,2499,20,65.14,14
+mission,2458,12,13.83,6
+warwick,2328,29,48.96,2
+melbourne,2398,23,51.85,4
+springdale,1879,19,51.04,12
+scranton,3054,21,39.2,2
+fort myers,1931,28,45.83,3
+wyoming,3067,18,54.24,4
+gastonia,1496,0,56.49,5
+bethlehem,3942,16,46.59,3
+franklin,1814,0,56.12,25
+camden,8343,5,59.48,7
+new braunfels,1686,16,45.69,5
+temple,1067,0,43.82,1
+waukesha,2917,12,56.12,3
+gulfport,1297,0,39.02,5
+canton,2801,15,40.94,19
+kissimmee,3274,0,54.78,9
+daytona beach,1141,19,41.99,4
+harlingen,1646,12,11.4,11
+conway,1440,25,46.04,9
+rogers,1714,23,51.04,8
+lodi,4750,0,25.42,1
+west des moines,1673,24,57.96,1
+youngstown,1894,18,35.98,4
+council bluffs,1526,0,59.91,2
+ocala,1322,0,27.18,1
+chapel hill,2805,9,79.72,1
+sanford,2552,0,54.78,2
+sarasota,3862,18,53.45,3
+bradenton,3927,4,53.45,4
+anderson,1333,22,47.66,14
+pensacola,2386,20,48.64,12
+elyria,2611,1,50.77,5
+milford,2399,0,58,11
